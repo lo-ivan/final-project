@@ -87,6 +87,6 @@ function initMap() {
     new google.maps.Marker({
       position: myLatLng,
       map,
-      title: "RMI Hair",
+      title: "IMR Hair",
     });
   }
